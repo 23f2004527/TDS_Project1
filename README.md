@@ -10,10 +10,10 @@
       * The most intresting and surprising fact that i found was that most used programming language is JavaScript, I was always in the bubble of python, thinking this is the most used language, but for my surprise, most people are javascript developers!<br />
 
 3. **An actionable recommendation for developers based on your analysis:**<br />
-      Leverage Popular Technologies such as JavaScript frameworks.<br />
-      Align with the Industry and technology trends.<br />
-      Engage with or follow top users like tiangolo, schacon, and rwieruch as they can provide valuable insights into best practices.<br />
-      developers should familiarize themselves with these licenses.<br />
+      * Leverage Popular Technologies such as JavaScript frameworks.<br />
+      * Align with the Industry and technology trends.<br />
+      * Engage with or follow top users like tiangolo, schacon, and rwieruch as they can provide valuable insights into best practices.<br />
+      * Developers should familiarize themselves with these licenses.<br />
 
 HOPE I DID A GOOD JOB ;)
 
